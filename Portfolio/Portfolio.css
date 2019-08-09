@@ -1,0 +1,163 @@
+*{
+    margin:0px;
+    padding:0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* body * { outline: 1px dotted red; 
+
+} */
+
+div.container{
+    width: 850px;
+    height: 770px;
+    background-color:#6f5964;
+    margin: 0px auto;
+}
+
+
+header{
+    background-color:#fbfbfb;
+  
+}
+h1 {
+    background-color:#fbfbfb;
+    display: inline;
+    margin: 20px;
+}
+
+span{
+    font-family: cursive;
+}
+
+.spanspan{
+    font:white;
+}
+h2{
+    background-color:#fbfbfb;
+    display: inline;
+    margin: 0px 0px 0px 230px;
+}
+
+.photome{
+    background-color: gray;
+    height: 230px;
+    padding:5px;
+    margin: 10px;
+    
+}
+
+.about{
+    background-color: white;
+    width: 443px;
+    height: 240px;
+    display: inline-block;
+    vertical-align: top;
+    margin: 10px;
+   
+}
+
+.lamode{
+    width: 260px;
+    height: 420px;
+    font: white;
+    background-color:white;
+    display: inline-block;
+    margin: 10px;
+    
+   
+}
+
+.familycontacts{
+    width: 260px;
+    height: 420px;
+    background-color:white;
+    display: inline-block; 
+    margin: 10px;  
+
+}
+
+
+.fiveEleven{
+    width: 260px;
+    height: 420px;
+    background-color:white;
+    display: inline-block;
+    margin: 10px;
+    
+}
+
+h3{
+    
+    background-color:#878693;
+    padding:5px;
+   
+}
+
+.lamodeimg{
+    width:260px;
+    height: 150px;
+}
+
+.familyimg{
+    width: 260px;
+    height: 150px;
+}
+
+.fiveElevenimg{
+    width: 260px;
+    height: 150px;
+}
+p{ 
+    background-color: white;
+    padding: 10px;
+    font-size: 12px;
+}
+
+
+.iconsrow1{
+    background-color: white;
+    display: inline;
+   
+
+}
+.smallicons{
+    width:30px;
+    height:30px;
+    margin: 2px;
+    padding: 4px;
+
+}
+
+button{
+    width: 65px;
+    height:25px;
+    color:white;
+    background-color:green;
+    border-radius: 8px;
+    margin: 0px 0px 10px 100px;
+    border-color: black;
+    padding: 2px;
+    
+
+}
+
+.contact{
+    height:37px;
+    background-color: #f9f9f9;
+    text-align: center;
+    
+    
+}
+
+.socialmedia{
+    height: 37px;
+    background-color:white;
+    font-size: 12px;
+    text-align:center;
+}
+
+.git{
+    width:25px;
+    height:25px;
+}
